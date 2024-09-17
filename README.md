@@ -48,5 +48,20 @@ Once that's done, congrats!, you finished, put the new SD onto your console and 
 
 _All this info and links were taken from this video btw, if anything fails, it's because I might've missed something, it all should be here https://www.youtube.com/watch?v=gd5-HvKJrOs_
 
+# Custom boot and loading images
+
+Do you want to add a custom boot or loading image? Well, you've come to the right place.
+
+You will need to find 2 images, set them to 640x480px and save the loading screen one as a .jpg and the boot one as a .bmp (24 bits). The latter can be done with paint.
+
 # Customizing themes
 
+_Note: this works for the R36S-name themes although it's only tested in the Epic Noir one. For the other themes, this is NOT your place LOL_
+
+You can do this two ways.
+
+First, you can choose to create your own theme from "scratch", in that case, I will leave a link below for the Albedo Theme. As far as I can tell, it works, although I couldn't get rid of the scanlines on the images, but that might just be a me issue. 
+
+For the Albedo go here: https://github.com/mluizvitor/es-theme-albedo/tree/main
+
+Now, there's a way easier way to customize your themes
