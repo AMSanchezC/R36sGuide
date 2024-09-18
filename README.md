@@ -119,9 +119,9 @@ So, you need to find as many images as systems you want showing in your device. 
 
 ![Captura de pantalla 2024-09-09 175237](https://github.com/user-attachments/assets/fde6e555-9609-435f-8f4f-178ff23411f2) ![image](https://github.com/user-attachments/assets/601f17e5-9ac9-4fe4-a507-3ffadebd2753)
 
+Once you're happy with what you got, save them in .jpg format, and find the abreviation for each system you want, and use that as it's name. (nds for nintendo DS, gba for GameBoy Advance, auto-allgames for all games, custom-collections for your custom collectios, etc).
 
-
-
+Then just get all your images with the right names and paste them into the **posters** folder. If done correctly, this should replace the old for the new images, and you will be done.
 
 # Customizing your R36s on the outside
 
