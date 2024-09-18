@@ -155,3 +155,4 @@ I suggest no more than 2 layers of paint, although 1 would be best, because more
 
 # Updating PortMaster
 
+To use Wifi on your R36s you need a Wifi Dongle and most likely a USB A to USB C adapter. You can look at this list to see which Wifi dongle works for you (https://docs.google.com/spreadsheets/u/0/d/1gWxtr-GmwWop-_qGUq022RXxK2aTLpPg9Qra68TQLI8/htmlview#gid=0) I used this one (https://www.amazon.es/dp/B008IFXQFU?ref=ppx_yo2ov_dt_b_fed_asin_title) and it worked perfectly.
