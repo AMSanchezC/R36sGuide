@@ -225,6 +225,29 @@ And this if something went wrong and you need to change the manifest:
 
 ![image](https://github.com/user-attachments/assets/28c05275-0873-49c3-83a2-373d0f43643b)
 
+It will take a while to download (a long while) but you'll know it's done once you see this:
+
+![image](https://github.com/user-attachments/assets/2e735f4e-9b4f-453a-90cd-073508734173) (you will just get it once probably, I got impatient)
+
+Copy the adress it's giving to find the depot on your computer, it will get you here:
+
+![Captura de pantalla 2024-09-09 183805](https://github.com/user-attachments/assets/928f636d-e85a-4522-9076-69990e75ec5b)
+
+Save it for later, and insert the SD card from your device onto your computer. You need to find the **ports** folder in EASYROMS. if everything went right while installing Stardew on the R36s you should see this:
+
+![Captura de pantalla 2024-09-09 184110](https://github.com/user-attachments/assets/b460c6b8-90d8-4969-8935-d30fcff15b5b)
+
+Follow **ports\stardewvalley\gamedata** and copy all from the depot in there.
+
+Once that's done, look if you can find this file in EASYROMS\tools\PortMaster\libs
+
+![Captura de pantalla 2024-09-09 184629](https://github.com/user-attachments/assets/647a4eea-6e16-4bce-871f-d56096de5671)
+
+If you dont, you can download it here (https://github.com/PortsMaster/PortMaster-Hosting/releases/download/large-files/mono-6.12.0.122-aarch64.squashfs) add it to EASYROMS\tools\PortMaster\libs once you got it.
+
+Now take out the SD card, insert it on your console and see if Stardew Valley works.
+
+If it does, great! and if it doesn't (like what happened to me) here's how you can fix it):
 
 
 
