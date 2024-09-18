@@ -91,7 +91,28 @@ _Some may have seen my post on Reddit about how I got custom buttons made and al
 
 This is how my R36s looks like now, for reference:
 
-![image](https://github.com/user-attachments/assets/aff45a09-7085-4847-9b86-cbf800447c3a)
+![image](https://github.com/user-attachments/assets/aff45a09-7085-4847-9b86-cbf800447c3a) ![image](https://github.com/user-attachments/assets/1aac2e89-edab-4438-bea5-232e96f9614c)
 
 
-For the D Pad I used this (https://www.thingiverse.com/thing:6477050) you'll find two models, I used the V3 one, and it sits slightly higher than the original one, making it way more comfortable to use
+
+For the D Pad I used this (https://www.thingiverse.com/thing:6477050) you'll find two models, I used the V3 one, and it sits slightly higher than the original one, making it way more comfortable to use. 
+
+
+
+In case you might be looking for the filaments I used here's the list:
+
+For the D Pad & shoulder buttons: https://www.amazon.es/ZIRO-Filamento-Impresora-1-75mm-Multicolor/dp/B0BG252MCH?pd_rd_w=qO2xj&content-id=amzn1.sym.facf7f17-8601-4d92-88f5-b69918861ce5&pf_rd_p=facf7f17-8601-4d92-88f5-b69918861ce5&pf_rd_r=D7V9EEQ0JMKQ9SVXNW0C&pd_rd_wg=Jvbk2&pd_rd_r=8170cfad-8d5c-450b-8c80-a8bc663eb4ef&pd_rd_i=B0BG252MCH&psc=1&ref_=pd_bap_d_grid_rp_0_2_t
+
+Select button: https://www.smartmaterials3d.com/iris#/2-tamano-m_750g/26-diametro-175_mm/206-color-tanzanite
+
+Start button: https://www.smartmaterials3d.com/silk#/2-tamano-m_750g/26-diametro-175_mm/209-color-silk_blue
+
+FN button: https://www.smartmaterials3d.com/iris#/2-tamano-m_750g/26-diametro-175_mm/221-color-alexandrite
+
+A button: https://www.smartmaterials3d.com/pla-glitter-filamento#/2-tamano-m_750g/26-diametro-175_mm/105-color-red_glitter
+
+B button: https://www.smartmaterials3d.com/pla-glitter-filamento#/2-tamano-m_750g/26-diametro-175_mm/107-color-green_glitter
+
+X button: https://www.smartmaterials3d.com/pla-filamento#/3-tamano-l_1000g/26-diametro-175_mm/31-color-silver
+
+Y button: https://www.smartmaterials3d.com/silk#/2-tamano-m_750g/26-diametro-175_mm/203-color-copper
