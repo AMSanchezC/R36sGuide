@@ -155,4 +155,12 @@ I suggest no more than 2 layers of paint, although 1 would be best, because more
 
 # Updating PortMaster
 
-To use Wifi on your R36s you need a Wifi Dongle and most likely a USB A to USB C adapter. You can look at this list to see which Wifi dongle works for you (https://docs.google.com/spreadsheets/u/0/d/1gWxtr-GmwWop-_qGUq022RXxK2aTLpPg9Qra68TQLI8/htmlview#gid=0) I used this one (https://www.amazon.es/dp/B008IFXQFU?ref=ppx_yo2ov_dt_b_fed_asin_title) and it worked perfectly.
+To use Wifi on your R36s you need a Wifi Dongle and most likely a USB A to USB C adapter. You can look at this list to see which Wifi dongle works for you (https://docs.google.com/spreadsheets/u/0/d/1gWxtr-GmwWop-_qGUq022RXxK2aTLpPg9Qra68TQLI8/htmlview#) I used this one (https://www.amazon.es/dp/B008IFXQFU?ref=ppx_yo2ov_dt_b_fed_asin_title) and it worked perfectly. They are as cheap as 7€ so it's totally worth the trouble of not setting ports up manually, which, if you ask me, it's a nightmare.
+
+Once you've set up your dongle on your computer or whatever it requires, you can connect it to your console. On **Options** scroll down to the **Wifi** option. Get in (if you can't, maybe you have the latest version of ArkOS (August 2024), that has a bug there. While I can't provide you with a fix, there's some people who have had the same issue and just downloaded a previous version of ArkOS or actually found a fix, which I'm sure you can find somewhere on reddit or gitHub), set up your wifi, password and all, and you're done. You'll probably notice the console starts making weird sounds, that means you're doing it right, and you should get prepared for more.
+
+Now, once your Wifi is setup, in Options, find PortMaster, enter, and it will tell you updates are available. You need to install them, accept the terms and conditions, etc. Beware, your device will start screaming, quite literally, I suggest you lock it somewhere while it does it's thing because it can get ANNOYING. 
+
+Once it's stopped the screaming, that means it's done. Now you'll see that in all ports you can find like 400 new games. Some are ready to install, some require files and it will tell you so. I suggest looking at the PortMaster wiki (https://knulli.org/systems/portmaster/) for more info.
+
+#Installing Stardew Valley (with extra steps in case something doesn't work)
