@@ -54,6 +54,23 @@ Do you want to add a custom boot or loading image? Well, you've come to the righ
 
 You will need to find 2 images, set them to 640x480px and save the loading screen one as a .jpg and the boot one as a .bmp (24 bits). The latter can be done with paint.
 
+**Adding your custom boot images**
+
+First, make sure you have a 640x480px image in a .bmp format. This is archievable by doing so on paint. You just add your image, edit it as you wish and then just click "save as > BMP Image" and make sure you choose this:
+
+![image](https://github.com/user-attachments/assets/bb12a300-d57c-45ba-b178-14e3fe3a27f3) (I know it is in spanish, but just make sure the 24 bit part of it it's present)
+
+Also, to save time, directly save it as "logo".
+
+Now, open your **BOOT** partition, and there you'll find something that looks like this:
+
+![image](https://github.com/user-attachments/assets/076037dc-78de-49f4-8b06-1300e8829a11)
+
+We will be changing the "logo.bmp" for our new one, which, if they're named the same, can be done with a simple copy and paste.
+
+Now, open the BMPs folder, and you'll find around 5 other images. These are the
+
+
 # Customizing themes
 
 _Note: this works for the R36S-name themes although it's only tested in the Epic Noir one. For the other themes, this is NOT your place LOL_
@@ -65,3 +82,16 @@ First, you can choose to create your own theme from "scratch", in that case, I w
 For the Albedo go here: https://github.com/mluizvitor/es-theme-albedo/tree/main
 
 Now, there's a way easier way to customize your themes
+
+
+
+# Customizing your R36s on the outside
+
+_Some may have seen my post on Reddit about how I got custom buttons made and also changed it's color, so I thought it would be nice to share all the files I used and other stuff to help others customize it to the max_
+
+This is how my R36s looks like now, for reference:
+
+![image](https://github.com/user-attachments/assets/aff45a09-7085-4847-9b86-cbf800447c3a)
+
+
+For the D Pad I used this (https://www.thingiverse.com/thing:6477050) you'll find two models, I used the V3 one, and it sits slightly higher than the original one, making it way more comfortable to use
