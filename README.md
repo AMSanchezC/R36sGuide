@@ -93,11 +93,11 @@ This is how my R36s looks like now, for reference:
 
 ![image](https://github.com/user-attachments/assets/aff45a09-7085-4847-9b86-cbf800447c3a) ![image](https://github.com/user-attachments/assets/1aac2e89-edab-4438-bea5-232e96f9614c)
 
-
-
 For the D Pad I used this (https://www.thingiverse.com/thing:6477050) you'll find two models, I used the V3 one, and it sits slightly higher than the original one, making it way more comfortable to use. 
 
+For the shoulder buttons I used this (https://www.printables.com/model/794361-r36s-shoulder-buttons). They have definetly made my user experience wayyyy better since now they make a lot less noise, don't click on accident when putting the console on a table and are in general way more comfortable to use.
 
+And for the rest of the buttons I used this (https://www.thingiverse.com/thing:6477054) you will find 3 models. For the FN, SELECT, START I used the v2, for ABXY I used the convex ones. Keep in mind these fit tightly sometimes, and at first they will make a lot more noise than the original ones, but with a few days of play, they'll be almost completely silent again.
 
 In case you might be looking for the filaments I used here's the list:
 
@@ -116,3 +116,12 @@ B button: https://www.smartmaterials3d.com/pla-glitter-filamento#/2-tamano-m_750
 X button: https://www.smartmaterials3d.com/pla-filamento#/3-tamano-l_1000g/26-diametro-175_mm/31-color-silver
 
 Y button: https://www.smartmaterials3d.com/silk#/2-tamano-m_750g/26-diametro-175_mm/203-color-copper
+
+**Painting your R36s**
+
+You may have noticed my case is painted. My reasoning? I saw there were blue and green versions, and I was stuck with classic purple, so I asked sellers on alliexpress if they'd sell the shell separetedly and this is the response I got:
+
+![image](https://github.com/user-attachments/assets/d4bc065b-a841-4488-9035-e8f1224e8f86)
+
+
+
