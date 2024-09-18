@@ -97,7 +97,29 @@ First, you can choose to create your own theme from "scratch", in that case, I w
 
 For the Albedo go here: https://github.com/mluizvitor/es-theme-albedo/tree/main
 
-Now, there's a way easier way to customize your themes
+Now, there's a way easier way to customize your themes.
+
+You need to pick one of these:
+
+![Captura de pantalla 2024-09-18 112416](https://github.com/user-attachments/assets/295dc429-5d90-42c3-9547-e2916eeefb67) you will find these in EASYROMS > themes
+
+I think it works with all of the shown above, but you need to find where the art posters are located with each theme. I've found the easier ones are the **epic, epicnoir & switch** themes, although this guide is mainly for the epic and epicnoir, you can easily apply this obtained knowledge for the rest.
+
+You need to go into your theme (epicnoir in my case) and find the art folder
+
+![image](https://github.com/user-attachments/assets/e7cdf235-ee78-4ce0-900d-cd40ffc46e53) then, just get into posters
+
+![image](https://github.com/user-attachments/assets/74d1e3bb-5f6f-4898-84df-5ba3ed82bb82)
+
+In there you will find a lot of images in .jpg format, with the abreviations for each system.
+
+![image](https://github.com/user-attachments/assets/bfccf84e-a841-4d62-b440-035551702de7)
+
+So, you need to find as many images as systems you want showing in your device. Make sure they are 640x480px so they look correctly. Also,a nice thing to keep in mind is the darkness of our pictures. Themes like Epic Noir have a darker part on the left so you can actually read the white font, so I suggest you go into photoshop and add this shade manually, something like this:
+
+![Captura de pantalla 2024-09-09 175237](https://github.com/user-attachments/assets/fde6e555-9609-435f-8f4f-178ff23411f2) ![image](https://github.com/user-attachments/assets/601f17e5-9ac9-4fe4-a507-3ffadebd2753)
+
+
 
 
 
@@ -163,4 +185,4 @@ Now, once your Wifi is setup, in Options, find PortMaster, enter, and it will te
 
 Once it's stopped the screaming, that means it's done. Now you'll see that in all ports you can find like 400 new games. Some are ready to install, some require files and it will tell you so. I suggest looking at the PortMaster wiki (https://knulli.org/systems/portmaster/) for more info.
 
-#Installing Stardew Valley (with extra steps in case something doesn't work)
+# Installing Stardew Valley (with extra steps in case something doesn't work)
