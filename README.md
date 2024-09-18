@@ -247,8 +247,28 @@ If you dont, you can download it here (https://github.com/PortsMaster/PortMaster
 
 Now take out the SD card, insert it on your console and see if Stardew Valley works.
 
-If it does, great! and if it doesn't (like what happened to me) here's how you can fix it):
+If it does, great! and if it doesn't (like what happened to me) here's how you can fix it:
 
+Delete ALL the new stuff you just added to ports. This should be all you're left with:
 
+![Captura de pantalla 2024-09-09 184935](https://github.com/user-attachments/assets/0dbabd21-df21-42df-b715-6964b668f994)
+
+And in **ports\stardewvalley\gamedata** you should ONLY have a .gitkeep, nothing else. If that is done, you don't need to touch anything else.
+
+Now you need to find where Stardew Valley is installed in your computer. I found it by looking in Archivos del programa x86 (your equivalent for english speakers) and searching for Stardew Valley.
+
+![Captura de pantalla 2024-09-09 185922](https://github.com/user-attachments/assets/770465cc-ffae-4f09-b9ba-19e10b640c22)
+
+In there, you will find this:
+
+![Captura de pantalla 2024-09-09 185958](https://github.com/user-attachments/assets/142af826-0476-482f-969b-257272826387)
+
+So, copy ALL of that, and paste it in **ports\stardewvalley\gamedata** in EASYROMS. You should be left with something like this:
+
+![Captura de pantalla 2024-09-09 190123](https://github.com/user-attachments/assets/a9d23ee0-dbac-4b68-8d19-3d89d6df6856)
+
+Check again on **tools\PortMaster\libs** for the file mentioned previously, and if you have it you are officially done. Put the SD back on you device and enjoy.
+
+Note: It will take a long time to load, every single time you open it. As long as you get the Loading, please wait message, it's all good, don't worry.
 
 
