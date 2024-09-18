@@ -205,3 +205,27 @@ And in BETAS choose the compatibility option
 
 ![Captura de pantalla 2024-09-09 183411](https://github.com/user-attachments/assets/5b323a63-a9d8-4e10-94fe-0bb3e907fb57)
 
+Install it and just in case, once it's done, open it to see everything runs correctly. Close it and move on to the next step.
+
+Now you need to open the Steam console, press **Windows + R** and write this: steam://open/console
+
+Now you need to give the command: download_depot 413150 413153 4264972535478467767
+
+There's a chance that may give out an error. In that case, go to this page (https://steamdb.info/depot/413153/manifests/) and find the latest manifest number, change the last number for that one.
+
+It's important you don't exit the Steam console while it downloads as you may get this error:
+
+![Captura de pantalla 2024-09-09 183042](https://github.com/user-attachments/assets/9340ef06-5166-4925-a607-93c18f51fe37)
+
+You won't recieve any kind of feedback that it's downloading, instead, you'll just see this if it's actually doing it:
+
+![image](https://github.com/user-attachments/assets/8dc59ac4-16ee-4ff7-95fb-0d46b1e581fd)
+
+And this if something went wrong and you need to change the manifest:
+
+![image](https://github.com/user-attachments/assets/28c05275-0873-49c3-83a2-373d0f43643b)
+
+
+
+
+
