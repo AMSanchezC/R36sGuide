@@ -93,6 +93,8 @@ This is how my R36s looks like now, for reference:
 
 ![image](https://github.com/user-attachments/assets/aff45a09-7085-4847-9b86-cbf800447c3a) ![image](https://github.com/user-attachments/assets/1aac2e89-edab-4438-bea5-232e96f9614c)
 
+**Printing the buttons**
+
 For the D Pad I used this (https://www.thingiverse.com/thing:6477050) you'll find two models, I used the V3 one, and it sits slightly higher than the original one, making it way more comfortable to use. 
 
 For the shoulder buttons I used this (https://www.printables.com/model/794361-r36s-shoulder-buttons). They have definetly made my user experience wayyyy better since now they make a lot less noise, don't click on accident when putting the console on a table and are in general way more comfortable to use.
@@ -123,5 +125,17 @@ You may have noticed my case is painted. My reasoning? I saw there were blue and
 
 ![image](https://github.com/user-attachments/assets/d4bc065b-a841-4488-9035-e8f1224e8f86)
 
+So I decided to take matters into my own hands, I used AK's Cobalt Blue and got to work. It looks way easier said than done, because I faced some complications.
 
+![image](https://github.com/user-attachments/assets/0b957184-2ca0-40f8-8af7-0321e960760a)
+
+Firstly, you need to dissasemble it COMPLETELY. I didn't want to remove the screen in fears of damaging it, so I didn't, but now I have some unpainted parts. You will need to use the smallest paintbrush you have available since there are a lot of small parts a big one can't get to. The back part is easy enough, but the front is where it gets tricky.
+
+Make sure you don't paint the SD card hole or the charging holes, and specially the OFF/ON & Volume buttons, as they may not fit well later and may not work properly. However, to fake the whole painted look on parts that you may not feel comfortable painting, you will need to paint both rims of the shell, avoiding to gat paint on the outside. 
+
+As for the screen part, a small paintbrush should get easily into the little spaces it can, and the rest, just paint the borders of the plastic sitting on top of it, that way, when you look at it from the front, looks like you painted it all.
+
+I suggest no more than 2 layers of paint, although 1 would be best, because more might make the pieces not fit together again. So I suggest getting a paint that covers well with few layers (Vallejo won't do, been there, done that). To make sure you're using the right paint, try painting the battery cover first, as it can easily be cleaned.
+
+# Updating PortMaster
 
