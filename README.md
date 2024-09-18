@@ -71,8 +71,21 @@ Now, open your **BOOT** partition, and there you'll find something that looks li
 
 We will be changing the "logo.bmp" for our new one, which, if they're named the same, can be done with a simple copy and paste.
 
-Now, open the BMPs folder, and you'll find around 5 other images. These are the
+Now, open the BMPs folder, and you'll find around 5 other images. These are the preloaded loading screens that come with the console. You can delete them all of you don't want them, and just add the logo image from before. 
 
+I haven't tested it yet, but if you add several BMPs on this folder, they may randomize which boot screen you get (based on what I've seen).
+
+**Customizing your loading screens**
+
+For this, you will need to go to your EASYROMS partition and search for the "launchimages" folder. There you'll find a .ascii, a .gif and a .jpg
+
+![Captura de pantalla 2024-09-18 112221](https://github.com/user-attachments/assets/8e5179bd-eb50-4c5b-8af1-56e3ae44e40a)
+
+As you may have noticed, this means you can also add a GIF as your loading image. You can later select this option on your EmulationStation menu.
+
+What you need to do is as easy as modifying the name of your new custom images (whether is a JPG or a GIF) to "loading" and just change the old one for the new one.
+
+So congrats, you're done!
 
 # Customizing themes
 
