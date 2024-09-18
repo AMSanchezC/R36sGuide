@@ -186,3 +186,22 @@ Now, once your Wifi is setup, in Options, find PortMaster, enter, and it will te
 Once it's stopped the screaming, that means it's done. Now you'll see that in all ports you can find like 400 new games. Some are ready to install, some require files and it will tell you so. I suggest looking at the PortMaster wiki (https://knulli.org/systems/portmaster/) for more info.
 
 # Installing Stardew Valley (with extra steps in case something doesn't work)
+
+In PortMaster, you need to find Stardew Valley in the All Ports section. Make sure you wifi is on and connected, or else this won't work. I've found that if I scroll down to the S, the device collapses, so I suggest to scroll up and start from the bottom.
+
+Then, once you find it, you click on it, and click on Install or Reinstall. This will take a while and your device will scream (again).
+
+Meanwhile, you need to own Stardew Valley first on Steam. Go there and change it to the compatibility version.
+
+Open Stardew Valley on Steam and go to Properties
+
+![Captura de pantalla 2024-09-09 181432](https://github.com/user-attachments/assets/f5eca0f8-9078-4bdb-8153-8e553fdf91a4)
+
+In properties, find BETAS
+
+![Captura de pantalla 2024-09-09 183333](https://github.com/user-attachments/assets/b3c74a74-49b3-4da0-aca5-15f48ab99ba2)
+
+And in BETAS choose the compatibility option
+
+![Captura de pantalla 2024-09-09 183411](https://github.com/user-attachments/assets/5b323a63-a9d8-4e10-94fe-0bb3e907fb57)
+
