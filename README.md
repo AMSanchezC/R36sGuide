@@ -305,7 +305,7 @@ As you can see, I added some padding to the screen part so it had 0 chances to b
 
 # Printing your own shell and full dissasembly of the device
 
-Did you want your device on anoy¡ther color, but painting it isn't working for you?
+Did you want your device on another color, but painting it isn't working for you?
 
 Did Aliexpress shops give you a short but hurtful answer to you asking for a shell?
 
@@ -396,4 +396,12 @@ I used Smartfill's Crystal Red PLA (https://www.smartmaterials3d.com/placrystal#
 
 For this print, you will need to print the buttons that come with the Cults3D files, because the originals won't fit it. Personally, I edited them to be a bit higher than they came since they're more comfortable to me.
 
-Also, for the back you'll find two files. One's for the classic buttons (the ones that come with the device) and the other is for the improved shoulder buttons (which kindly u/firezenk did when I suggested it)
+Also, for the back you'll find two files. One's for the classic buttons (the ones that come with the device) and the other is for the improved shoulder buttons (which kindly u/firezenk did when I suggested it).
+
+And with all that here's the final ressult:
+
+![IMG_20240925_145526](https://github.com/user-attachments/assets/b2682649-3cf6-49e4-b6a6-13f9f609befb)![IMG_20240925_145533](https://github.com/user-attachments/assets/b2567c4e-e87f-4cb2-811a-f9140af2f6db)![IMG_20240925_145538](https://github.com/user-attachments/assets/3e0dd151-66c1-4ebd-a77e-81f864f33f27)![IMG_20240925_145543](https://github.com/user-attachments/assets/743ed9b4-40f8-4154-837c-3f6ced938550)
+
+
+
+
