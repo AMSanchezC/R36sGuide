@@ -368,7 +368,7 @@ In case that's what you want to do, I can't stop you (if I could've stopped myse
 
 Make sure you're on a plain and clean table, and you have lot's of time available. 
 
-Then, pick up your plastic tool of choice (u/firezenk recommended me a guitar pick, which was too short for my liking, or the plastic that comes with your new SD cards, which was what worked for me) and see if you can wiggle it there without putting that much pressure on the screen. It's just patience from there. You'll need to get it under here (which in my case is red, and in yours will be the color of your device:
+Then, pick up your plastic tool of choice (u/firezenk recommended me a guitar pick, which was too short for my liking, or the plastic that comes with your new SD cards, which was what worked for me) and see if you can wiggle it there without putting that much pressure on the screen. It's just patience from there. You'll need to get it under here (which in my case is red, and in yours will be the color of your device):
 
 ![IMG_20240925_144727](https://github.com/user-attachments/assets/ddc16b59-dadc-4363-9781-89c3df896fc4)
 
@@ -380,7 +380,7 @@ So, with that out of the way, here's how to change the back buttons. You'll see 
 
 ![IMG_20240925_145205](https://github.com/user-attachments/assets/5b916f7a-4931-46f0-bc53-76eb70576f05)
 
-You'll find that the buttons are connected to the shell by too little knobs on each side. What you need to do is with your hands, pliers, teeth, or whatever you may find, squeeze the sides of the button on the inside sond push out until they come out. There's literally no other way, and it's harder than it seems.
+You'll find that the buttons are connected to the shell by two little knobs on each side. What you need to do is with your hands, pliers, teeth, or whatever you may find, squeeze the sides of the button on the inside sond push out until they come out. There's literally no other way, and it's harder than it seems.
 
 Once the buttons are out, inserting new ones is just a matter of skill and placement.
 
