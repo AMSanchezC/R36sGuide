@@ -9,6 +9,16 @@ Things like **Setting up the R36s for the first time, customizing themes, custom
 
 [Custom boot and loading images](#custom-boot-and-loading-images)
 
+[Customizing your R36s on the outside](#customizing-your-r36s-on-the-outside)
+
+[Installing Stardew Valley (with extra steps in case something doesn't work)
+](#installing-stardew-valley-(with-extra-steps-in-case-something-doesn't-work)
+)
+
+[Example headline 1](#example-headline-1)
+
+[Example headline 1](#example-headline-1)
+
 [Example headline 1](#example-headline-1)
 
 # Setting up your R36S for the first time
