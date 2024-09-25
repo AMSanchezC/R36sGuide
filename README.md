@@ -7,6 +7,10 @@ Things like **Setting up the R36s for the first time, customizing themes, custom
 
 [Setting up your R36S for the first time](#setting-up-your-r36s-for-the-first-time)
 
+[Custom boot and loading images](#custom-boot-and-loading-images)
+
+[Example headline 1](#example-headline-1)
+
 # Setting up your R36S for the first time
 First thing you need to do, is changing your SD card. I suggest looking at this list (https://docs.google.com/spreadsheets/u/0/d/1gWxtr-GmwWop-_qGUq022RXxK2aTLpPg9Qra68TQLI8/htmlview#gid=0) to see which ones are compatible, as not all of them are. You will also need an SD card reader, and a computer, obviously. A 128gb card will do wonders, you don't need more although you are free to add a bigger one.
 
