@@ -271,4 +271,21 @@ Check again on **tools\PortMaster\libs** for the file mentioned previously, and 
 
 Note: It will take a long time to load, every single time you open it. As long as you get the Loading, please wait message, it's all good, don't worry.
 
+# Making your own case for the R36s
+
+Of course, I had to make a custom case for my device.
+
+I found this on Thingiverse: https://www.thingiverse.com/thing:6412954
+
+You will find there's two versions, one for adding magnets and one that doesn't allow that. Mine's the latter.
+
+For this one, you will need to print both parts and sand the closing part down, opening and closing it a few times as well so you'll be able to open it properly. 
+
+However, when I updated my shoulder buttons to the better version, it didn't fit anymore, so here's my remix for the better shoulder buttons: https://www.thingiverse.com/thing:6777902
+
+You will end up with something like this:
+
+![image](https://github.com/user-attachments/assets/7ad0a98e-868c-4505-ad0e-1fc65d86d9b8)
+
+As you can see, I added some padding to the screen part so it had 0 chances to break. It fits with little wiggle room, so you can be sure your device will be safe
 
