@@ -15,11 +15,9 @@ Things like **Setting up the R36s for the first time, customizing themes, custom
 
 [Installing Stardew Valley](#installing-stardew-valley)
 
+[Making your own case for the R36s](#making-your-own-case-for-the-r36s)
 
-
-[Example headline 1](#example-headline-1)
-
-[Example headline 1](#example-headline-1)
+[Printing your own shell and full dissasembly of the device](#printing-your-own-shell-and-full-dissasembly-of-the-device)
 
 # Setting up your R36S for the first time
 First thing you need to do, is changing your SD card. I suggest looking at this list (https://docs.google.com/spreadsheets/u/0/d/1gWxtr-GmwWop-_qGUq022RXxK2aTLpPg9Qra68TQLI8/htmlview#gid=0) to see which ones are compatible, as not all of them are. You will also need an SD card reader, and a computer, obviously. A 128gb card will do wonders, you don't need more although you are free to add a bigger one.
@@ -305,3 +303,4 @@ You will end up with something like this:
 
 As you can see, I added some padding to the screen part so it had 0 chances to break. It fits with little wiggle room, so you can be sure your device will be safe
 
+# Printing your own shell and full dissasembly of the device
