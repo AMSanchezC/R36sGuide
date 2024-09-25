@@ -304,3 +304,11 @@ You will end up with something like this:
 As you can see, I added some padding to the screen part so it had 0 chances to break. It fits with little wiggle room, so you can be sure your device will be safe
 
 # Printing your own shell and full dissasembly of the device
+
+Did you want your device on anoy¡ther color, but painting it isn't working for you?
+
+Did Aliexpress shops give you a short but hurtful answer to you asking for a shell?
+
+![Captura de pantalla 2024-09-18 120421](https://github.com/user-attachments/assets/43667488-084c-47aa-8710-36f1e6a8cfef)
+
+
