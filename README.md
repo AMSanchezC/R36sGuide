@@ -344,3 +344,16 @@ Now, once that's done, I reccomend taking out the joysticks first. You'll see th
 
 ![IMG_20240925_144440](https://github.com/user-attachments/assets/e36ccb54-295b-4702-b27e-b4f9b71fa617)
 
+And for the last of the screws, you'll find two attatched to the board:
+
+![IMG_20240925_144359](https://github.com/user-attachments/assets/eae68d71-f836-4f7c-a342-07d7c68a030c)
+
+Unscrew them and take out the board carefully.
+
+WARNING: the first time it may be a little harder to do, so I recommend you pick a flat screwdriver and pull up carefully from both of the upper corners. You'll need to be careful every time since the usb and minijack ports are on the lower part and they are inside holes in the shell.
+
+Here you may encounter a similar issue than me (trust me, it's happened more than once and the first time I panicked):
+
+![IMG_20240925_144657](https://github.com/user-attachments/assets/a628e16a-011f-4bab-bdf3-cae08cf4583a)
+
+Your joysticks dedided being connected was too much work. But, don't worry, they work exactly as the screen connector, you can pull the small black clip up (this one is on the bottom part for the left joystick) and insert the connector back in on the opposite side of the clip, close it, and you're done with that.
