@@ -336,7 +336,7 @@ As you can see, there's a white connector with a black sort of clip. Pull that c
 
 ![IMG_20240925_144341](https://github.com/user-attachments/assets/7cc1210d-7453-4965-a8ae-cc9ba5acbf0d)
 
-and then free up the connector taking it out:
+And then free up the connector taking it out:
 
 ![IMG_20240925_144350](https://github.com/user-attachments/assets/0e8d5fb0-6c7e-4f74-9922-a14c60db6507)
 
@@ -357,3 +357,23 @@ Here you may encounter a similar issue than me (trust me, it's happened more tha
 ![IMG_20240925_144657](https://github.com/user-attachments/assets/a628e16a-011f-4bab-bdf3-cae08cf4583a)
 
 Your joysticks dedided being connected was too much work. But, don't worry, they work exactly as the screen connector, you can pull the small black clip up (this one is on the bottom part for the left joystick) and insert the connector back in on the opposite side of the clip, close it, and you're done with that.
+
+So, now you will be left with this:
+
+![IMG_20240925_144638](https://github.com/user-attachments/assets/9a4d6b63-da6a-4036-a6fb-3878116a414a)
+
+From here, you can choose to change your buttons (see this for what I used when modding the original shell: [Customizing your R36s on the outside](#customizing-your-r36s-on-the-outside)) or do more extreme stuff like taking out the screen.
+
+In case that's what you want to do, I can't stop you (if I could've stopped myself I would) so I'll teach you to do it carefully and properly.
+
+Make sure you're on a plain and clean table, and you have lot's of time available. 
+
+Then, pick up your plastic tool of choice (u/firezenk recommended me a guitar pick, which was too short for my liking, or the plastic that comes with your new SD cards, which was what worked for me) and see if you can wiggle it there without putting that much pressure on the screen. It's just patience from there. You'll need to get it under here (which in my case is red, and in yours will be the color of your device:
+
+![IMG_20240925_144727](https://github.com/user-attachments/assets/ddc16b59-dadc-4363-9781-89c3df896fc4)
+
+You'll see that there are 3 pieces of black double sided tape that is there to stay. My personal recommendation is wet your plastic tool with a drop of alcohol every now and then and the job will be done faster. Aim for the double sided tape until the screen is free. Be careful, because it comes out outwards, so don't drop it. It may take a while, for me it was 3 long hours, but for the love of god, no matter how impatient you get DON'T PUT ANY KIND OF PRESSURE ON THE SCREEN or you will end up like this:
+
+![image](https://github.com/user-attachments/assets/c9184b8c-cd10-434b-a556-6da5de11a4ff) and from here is either a screen replacement or a new device haha.
+
+
