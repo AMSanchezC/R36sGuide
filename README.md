@@ -311,4 +311,36 @@ Did Aliexpress shops give you a short but hurtful answer to you asking for a she
 
 ![Captura de pantalla 2024-09-18 120421](https://github.com/user-attachments/assets/43667488-084c-47aa-8710-36f1e6a8cfef)
 
+Well, look no more! u/firezenk did this shell (see reddit post here: https://www.reddit.com/r/R36S/comments/1fiucg8/full_case_replacement_for_r36s_available_for_3d/) and I'm going to teach you how to **CAREFULLY** dissasemble everything, including the screen.
+
+You'll need: two (small but different sizes) screwdrivers (I have absolutely no idea about the specifications for them, just see what fits lol), a thin yet sturdy plastic, hands, and patience. And please: don't ask your father for help as I did (specially being a grown ass woman, shame on me) since they may have the bright idea to put preassure on the screen and end up breaking it. 
+
+To start with one of the most important things: TAKE OUT YOUR SD CARD. It may seem a dumb thing to remind, but you need to this first, since taking out the board will be imposssible and you may break it.
+
+First thing you've got to do is look at the back of your device:
+
+![IMG_20240925_144033](https://github.com/user-attachments/assets/f381f809-2117-45c9-b3cd-7c84c944fbcf) (please, ignore the fact that it's incomplete, I literally had no time or will to finish it since someone broke my screen)
+
+You'll find 6 screws, remove them carefully, and take out the bottom half of your console. BE CAREFUL: I am detatching the battery later since it's easier this way for me, so if you haven't done that first: TAKE IT OUT CAREFULLY and set both halves on a desk.
+
+Now, you'll see this:
+![IMG_20240925_144312](https://github.com/user-attachments/assets/9d7160ad-8246-4ed6-90f1-5e83806c1636)
+
+Your battery is still atatched, so carefully, pull the connector out, might be easier if instead of directly pulling on it, you wiggle it a bit.  
+
+Once that's done, we move on to disconnecting the screen.
+
+![IMG_20240925_144335](https://github.com/user-attachments/assets/f2f878f6-56fd-42c5-856f-cac96a712a97)
+
+As you can see, there's a white connector with a black sort of clip. Pull that clip up, like this:
+
+![IMG_20240925_144341](https://github.com/user-attachments/assets/7cc1210d-7453-4965-a8ae-cc9ba5acbf0d)
+
+and then free up the connector taking it out:
+
+![IMG_20240925_144350](https://github.com/user-attachments/assets/0e8d5fb0-6c7e-4f74-9922-a14c60db6507)
+
+Now, once that's done, I reccomend taking out the joysticks first. You'll see there's two screws for each of them, that are slightly smaller than the others, so use your smaller screwdriver for this.
+
+![IMG_20240925_144440](https://github.com/user-attachments/assets/e36ccb54-295b-4702-b27e-b4f9b71fa617)
 
