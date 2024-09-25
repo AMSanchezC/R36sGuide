@@ -11,10 +11,11 @@ Things like **Setting up the R36s for the first time, customizing themes, custom
 
 [Customizing your R36s on the outside](#customizing-your-r36s-on-the-outside)
 
-[Installing Stardew Valley (with extra steps in case something doesn't work)
-](#installing-stardew-valley)
+[Updating PortMaster](#updating-portmaster)
 
-[Example headline 1](#example-headline-1)
+[Installing Stardew Valley](#installing-stardew-valley)
+
+
 
 [Example headline 1](#example-headline-1)
 
@@ -200,7 +201,7 @@ Now, once your Wifi is setup, in Options, find PortMaster, enter, and it will te
 
 Once it's stopped the screaming, that means it's done. Now you'll see that in all ports you can find like 400 new games. Some are ready to install, some require files and it will tell you so. I suggest looking at the PortMaster wiki (https://knulli.org/systems/portmaster/) for more info.
 
-# Installing Stardew Valley (with extra steps in case something doesn't work)
+# Installing Stardew Valley
 
 In PortMaster, you need to find Stardew Valley in the All Ports section. Make sure you wifi is on and connected, or else this won't work. I've found that if I scroll down to the S, the device collapses, so I suggest to scroll up and start from the bottom.
 
