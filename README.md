@@ -3,7 +3,9 @@ A guide on getting started with you R36s and more.
 
 This guide works on a **Windows 11** computer with the **R36s** with **ArkOS 2.0** and **Panel 4**
 
-Things like **Setting up the R36s for the first time, customizing themes, custom boot & loading images, changing it's appearance on the outside, PortMaster and installing Stardew Valley** are covered here, so if you don't find what you're looking for at first, keep scrolling, I'm new to making guides on gitHub and don't know how to link contents.
+Things like **Setting up the R36s for the first time, customizing themes, custom boot & loading images, changing it's appearance on the outside, PortMaster and installing Stardew Valley** are covered here.
+
+[Setting up your R36S for the first time](#setting-up-your-r36s-for-the-first-time)
 
 # Setting up your R36S for the first time
 First thing you need to do, is changing your SD card. I suggest looking at this list (https://docs.google.com/spreadsheets/u/0/d/1gWxtr-GmwWop-_qGUq022RXxK2aTLpPg9Qra68TQLI8/htmlview#gid=0) to see which ones are compatible, as not all of them are. You will also need an SD card reader, and a computer, obviously. A 128gb card will do wonders, you don't need more although you are free to add a bigger one.
