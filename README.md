@@ -313,7 +313,7 @@ Did Aliexpress shops give you a short but hurtful answer to you asking for a she
 
 Well, look no more! u/firezenk did this shell (see reddit post here: https://www.reddit.com/r/R36S/comments/1fiucg8/full_case_replacement_for_r36s_available_for_3d/) and I'm going to teach you how to **CAREFULLY** dissasemble everything, including the screen.
 
-You'll need: two (small but different sizes) screwdrivers (I have absolutely no idea about the specifications for them, just see what fits lol), a thin yet sturdy plastic, hands, and patience. And please: don't ask your father for help as I did (specially being a grown ass woman, shame on me) since they may have the bright idea to put preassure on the screen and end up breaking it. 
+You'll need: two (small but different sizes) screwdrivers (I have absolutely no idea about the specifications for them, just see what fits lol), a thin yet sturdy plastic, hands, and patience. And please: don't ask your father for help as I did (specially being a grown ass woman, shame on me) since they may have the bright idea to put pressure on the screen and end up breaking it. 
 
 To start with one of the most important things: TAKE OUT YOUR SD CARD. It may seem a dumb thing to remind, but you need to this first, since taking out the board will be imposssible and you may break it.
 
@@ -376,4 +376,24 @@ You'll see that there are 3 pieces of black double sided tape that is there to s
 
 ![image](https://github.com/user-attachments/assets/c9184b8c-cd10-434b-a556-6da5de11a4ff) and from here is either a screen replacement or a new device haha.
 
+So, with that out of the way, here's how to change the back buttons. You'll see this:
 
+![IMG_20240925_145205](https://github.com/user-attachments/assets/5b916f7a-4931-46f0-bc53-76eb70576f05)
+
+You'll find that the buttons are connected to the shell by too little knobs on each side. What you need to do is with your hands, pliers, teeth, or whatever you may find, squeeze the sides of the button on the inside sond push out until they come out. There's literally no other way, and it's harder than it seems.
+
+Once the buttons are out, inserting new ones is just a matter of skill and placement.
+
+And now your device is fully disasembled: Time to add a new shell.
+
+Going to the post I mentioned before will guide you here: https://cults3d.com/en/3d-model/gadget/front-case-replacement-for-r36s for the top part & https://cults3d.com/en/3d-model/gadget/rear-case-replacement-for-r36s for the back.
+
+I printed the top shell at a 100% infill, with tree supports at 0.12mm quality and with the display looking to the buildplate-
+
+I printed the back also at 100% infill, tree supports, 0.12mm and with the inner part looking to the buildplate.
+
+I used Smartfill's Crystal Red PLA (https://www.smartmaterials3d.com/placrystal#/2-tamano-m_750g/26-diametro-175_mm/215-color-crystal_red) because I wanted to keep the retro transparency vibe.
+
+For this print, you will need to print the buttons that come with the Cults3D files, because the originals won't fit it. Personally, I edited them to be a bit higher than they came since they're more comfortable to me.
+
+Also, for the back you'll find two files. One's for the classic buttons (the ones that come with the device) and the other is for the improved shoulder buttons (which kindly u/firezenk did when I suggested it)
