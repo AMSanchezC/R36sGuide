@@ -12,8 +12,7 @@ Things like **Setting up the R36s for the first time, customizing themes, custom
 [Customizing your R36s on the outside](#customizing-your-r36s-on-the-outside)
 
 [Installing Stardew Valley (with extra steps in case something doesn't work)
-](#installing-stardew-valley-(with-extra-steps-in-case-something-doesn't-work)
-)
+](#installing-stardew-valley)
 
 [Example headline 1](#example-headline-1)
 
