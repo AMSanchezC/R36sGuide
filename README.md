@@ -153,6 +153,8 @@ For the shoulder buttons I used this (https://www.printables.com/model/794361-r3
 
 And for the rest of the buttons I used this (https://www.thingiverse.com/thing:6477054) you will find 3 models. For the FN, SELECT, START I used the v2, for ABXY I used the convex ones. Keep in mind these fit tightly sometimes, and at first they will make a lot more noise than the original ones, but with a few days of play, they'll be almost completely silent again.
 
+![image](https://github.com/user-attachments/assets/c343b861-e65a-4c39-9ad4-d1a1a4c29f34)
+
 In case you might be looking for the filaments I used here's the list:
 
 For the D Pad & shoulder buttons: https://www.amazon.es/ZIRO-Filamento-Impresora-1-75mm-Multicolor/dp/B0BG252MCH?pd_rd_w=qO2xj&content-id=amzn1.sym.facf7f17-8601-4d92-88f5-b69918861ce5&pf_rd_p=facf7f17-8601-4d92-88f5-b69918861ce5&pf_rd_r=D7V9EEQ0JMKQ9SVXNW0C&pd_rd_wg=Jvbk2&pd_rd_r=8170cfad-8d5c-450b-8c80-a8bc663eb4ef&pd_rd_i=B0BG252MCH&psc=1&ref_=pd_bap_d_grid_rp_0_2_t
